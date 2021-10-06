@@ -1,5 +1,5 @@
 # Uber-Clone
-Uber Clone for iOS and Android developed with React Native and powered by React Native [React Navigation, React Hooks, React Native Elements] Redux, Google Maps APIs [Google Places API, Google Matrix API, Google Directions API], TailwindCSS, and Expo Go.
+Uber Clone for iOS and Android devices developed with React Native and powered by React Native [React Navigation, React Hooks, React Native Elements] Redux, Google Maps APIs [Google Places API, Google Matrix API, Google Directions API], TailwindCSS, and Expo Go.
 
 Google Places API: Allowed for Google Autocomplete engine which that provides suggestions to users as they enter their search query into the search box
 Google Matrix API: Returns JSON Data providing origin + destination details and mileage information
