@@ -12,3 +12,5 @@ Expo: Used for development as an open-source platform for making universal nativ
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 DEMO OF APPLICATION: 
+
+https://user-images.githubusercontent.com/48074597/136160992-522277f4-ec5a-4874-ac47-e19689cea15b.mov
