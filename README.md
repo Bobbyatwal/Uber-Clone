@@ -11,6 +11,6 @@ Expo: Used for development as an open-source platform for making universal nativ
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-DEMO OF APPLICATION: 
+DEMO OF APPLICATION using iOS Simulator on iPhone 12 Pro Max: 
 
 https://user-images.githubusercontent.com/48074597/136160992-522277f4-ec5a-4874-ac47-e19689cea15b.mov
