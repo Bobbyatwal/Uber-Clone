@@ -8,3 +8,7 @@ Google Directions API: Google Web service that uses an HTTP request to return JS
 Redux: Maintains state consistently across the project components. Redux was used to dispatch and select information to/from the store such as user Origin, desired Destination, and Travel Time Information (total distance in miles, duration in minutes, and unique number values to calculate pricing options).
 
 Expo: Used for development as an open-source platform for making universal native apps for Android, iOS, and the web with JavaScript and React.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+DEMO OF APPLICATION: 
